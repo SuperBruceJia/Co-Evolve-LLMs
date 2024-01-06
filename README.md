@@ -1,4 +1,4 @@
-# Co-Evolve-LLMs
+# CoEvolve LLMs
 Co-evolution of LLMs via Adversarial Learning for Mathematical Reasoning
 
 ## 🖼️ General Framework
